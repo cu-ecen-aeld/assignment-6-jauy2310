@@ -1,3 +1,9 @@
 [submodule "assignment-autotest"]
 	path = assignment-autotest
 	url = https://github.com/cu-ecen-aeld/assignment-autotest.git
+[submodule "assignments-3-and-later-jauy2310"]
+	path = assignments-3-and-later-jauy2310
+	url = git@github.com:cu-ecen-aeld/assignments-3-and-later-jauy2310.git
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky
